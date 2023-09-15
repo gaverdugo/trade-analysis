@@ -18,11 +18,11 @@ There is also a *requirements.txt* file if you prefer to use pip
 
 To analyze a csv, execute
 
-`python -m trade-analysis <path/to/csv>`
+`python -m trade_analysis <path/to/csv>`
 
 If you want to search for ticker and date, execute
 
-`python -m trade-analysis <path/to/csv> --date <YYYY-MM-DD> --ticker <ticker>`
+`python -m trade_analysis <path/to/csv> --date <YYYY-MM-DD> --ticker <ticker>`
 
 ## Brief explanation of each solution
 
